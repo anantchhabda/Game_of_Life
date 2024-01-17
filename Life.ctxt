@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=initial
+comment0.target=Life(boolean[][])
+comment1.params=width\ height\ probability
+comment1.target=Life(int,\ int,\ double)
+comment2.params=
+comment2.target=Life()
+comment3.params=probability
+comment3.target=void\ initializeMap(double)
+comment4.params=
+comment4.target=boolean[][]\ getMap()
+comment5.params=
+comment5.target=void\ nextGeneration()
+comment6.params=i\ j
+comment6.target=int\ numNeighbours(int,\ int)
+numComments=7

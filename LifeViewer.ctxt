@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LifeViewer
+comment1.params=life
+comment1.target=LifeViewer(Life)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ drawCells()
+comment4.params=
+comment4.target=void\ drawGrid()
+comment5.params=n
+comment5.target=void\ animate(int)
+numComments=6
